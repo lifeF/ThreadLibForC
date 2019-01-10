@@ -5,11 +5,7 @@ to comply with x86_64<p>
 
 <p><b>Getting started:</b></p>
 
-    •  Have a look at the main.c file. In that you have two blocks of code, enabled based on
-        whether or not you have set the TESTING mode or not. It is recommended that you start
-        work in the TESTING mode once you have done the development, undefine the TESTING
-      flag and make sure the other block of code works. When marking your submissions we will
-      run the same main file with the TESTING flag undefined.
+    Have a look at the main.c file. In that you have two blocks of code, enabled based on whether or not you have set the TESTING mode or not. It is recommended that you start work in the TESTING mode once you have done the development, undefine the TESTING flag and make sure the other block of code works. When marking your submissions we will run the same main file with the TESTING flag undefined.
 
 <p><b>Background:</b></p>
 <p>You will be implementing user-level, cooperating threads. Where user-level means that kernel does
